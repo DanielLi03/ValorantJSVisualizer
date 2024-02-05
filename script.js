@@ -1,10 +1,10 @@
-function func(){
+function assignment6(){
     let filePath="data.csv";
-    reader(filePath)
+    question0(filePath)
 }
 
 
-let reader=function(filePath){
+let question0=function(filePath){
     //preprocess data
     d3.csv(filePath).then(function(data){
 

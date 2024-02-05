@@ -1,0 +1,74 @@
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    background-color: #e03e2f;
+    padding: 70px 0;
+}
+
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    opacity: 0;
+  }
+
+.background {
+    padding: 10px 0;
+}
+
+body { 
+    margin: 0px;
+    background-image: url("valorant.png");
+    background-color: antiquewhite;
+}
+
+.title { 
+    text-align: center;
+}
+
+#q2 {
+    width: 1000px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#q2_plot {
+    width: 600px;
+    float: left;
+    height: 400px;
+}
+
+#annotation1 {
+    width: 400px;
+    float: right;
+    height: 400px;
+}
+
+.clearer {
+    clear:both;
+}
+
+#q3 {
+    width: 1000px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#q3_plot {
+    width: 600px;
+    float: left;
+    height: 400px;
+}
+
+#annotation2 {
+    width: 400px;
+    float: right;
+    height: 400px;
+}

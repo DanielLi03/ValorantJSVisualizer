@@ -1,0 +1,37 @@
+{
+    "maps": [
+        {"lat": 34.02, "long": -6.51, "name": "Bind", "location": "Rabat, Morocco"}, 
+        {"lat": 45.26, "long": 12.20, "name": "Ascent", "location": "Venice, Italy"}, 
+        {"lat": 27.28, "long": 89.38, "name": "Haven", "location": "Thimphu,  Bhutan"}, 
+        {"lat": 35.41, "long": 139.41, "name": "Split", "location": "Tokyo, Japan"}, 
+        {"lat": 35.48, "long": -106.08, "name": "Fracture", "location": "Santa Fe, New Mexico"}, 
+        {"lat": 76.44, "long": 149.30, "name": "Icebox", "location": "Bennet Island, Russia"}, 
+        {"lat": 26.11, "long": -71.10, "name": "Breeze", "location": "Bermuda Triangle, Atlantic Ocean"},
+        {"lat": 38.42, "long": -9.08, "name": "Pearl", "location": "Lisbon, Portugual"},
+        {"lat": 14.07, "long": 74.53, "name": "Lotus", "location": "Western Ghats, India"}
+    ],
+
+    "agents": [
+        {"long": 40.7128, "lat": -74, "name": "Brimstone"}, 
+        {"long": 31.96, "lat": -99.9, "name": "Viper"}, 
+        {"long": -82.86, "lat": -135, "name": "Omen"}, 
+        {"long": 51.16, "lat": 10.45, "name": "Killjoy"}, 
+        {"long": 31.79, "lat": -7.92, "name": "Cypher"}, 
+        {"long": 61.52, "lat": 105.3, "name": "Sova"}, 
+        {"long": 35.86, "lat": 104.19, "name": "Sage"},
+        {"long": 55.37, "lat": -3.43, "name": "Phoenix"},
+        {"long": 35.9, "lat": 127.76, "name": "Jett"},
+        {"long": 23.63, "lat": -102.55, "name": "Reyna"}, 
+        {"long": -14.23, "lat": -51.92, "name": "Raze"}, 
+        {"long": 60.12, "lat": 18.64, "name": "Breach"}, 
+        {"long": -25.27, "lat": 133.77, "name": "Skye"}, 
+        {"long": 36.2, "lat": 138.25, "name": "Yoru"}, 
+        {"long": 7.94, "lat": -1.02, "name": "Astra"}, 
+        {"long": 0, "lat": 0, "name": "KAY/O"},
+        {"long": 46.22, "lat": 2.2, "name": "Chamber"},
+        {"long": 12.87, "lat": 121.77, "name": "Neon"},
+        {"long": 38.96, "lat": 35.24, "name": "Fade"}, 
+        {"long": 20.59, "lat": 78.96, "name": "Harbor"}, 
+        {"long": 33.94, "lat": -118.4, "name": "Gekko"}
+    ]
+}

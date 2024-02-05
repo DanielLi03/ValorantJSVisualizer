@@ -1,0 +1,101 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "DaLi97",
+            "kd": 1.1
+        },
+        {
+            "id": 2,
+            "name": "taeng9",
+            "kd": 1.06
+        },
+        {
+            "id": 3,
+            "name": "ayao",
+            "kd": 0.92
+        },
+        {
+            "id": 4,
+            "name": "frog",
+            "kd": 0.85
+        },
+        {
+            "id": 5,
+            "name": "belaedinoob",
+            "kd": 1.16
+        },
+        {
+            "id": 6,
+            "name": "brobro420",
+            "kd": 0.98
+        },
+        {
+            "id": 7,
+            "name": "biglifting",
+            "kd": 1.14
+        },
+        {
+            "id": 8,
+            "name": "darkenplays",
+            "kd": 1.04
+        },
+        {
+            "id": 9,
+            "name": "Satella018",
+            "kd": 0.74
+        },
+        {
+            "id": 10,
+            "name": "foreheaddude",
+            "kd": 0.7
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 211
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 292
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 611
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 226
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 61
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 70
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 33
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 44
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 50
+        }
+    ]
+}
